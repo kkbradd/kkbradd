@@ -6,10 +6,10 @@
 ### <div align="center">I am Kübra, Computer Engineering Student in Istanbul🚀👩‍💻</div>  
   
 
-- ###### 🔭 I'm working on Image Processing, Deep Learning and Mobile App Development  
+- ###### 🔭 I'm working on Image Processing, Machine Learning and Mobile App Development  
   
 
-- ###### 🌱 I’m currently learning Kotlin and Deep Learning  
+- ###### 🌱 I’m currently learning Machine Learning
   
 
 - ###### 📄 Know about my experiences https://www.linkedin.com/in/haticekubradogan/  
