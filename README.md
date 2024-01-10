@@ -9,7 +9,7 @@
 - ###### 🔭 I'm working on Image Processing, Machine Learning and Deep Learning  
   
 
-- ###### 🌱 I’m currently learning Deep Learning
+- ###### 🌱 I’m currently learning Machine Learning
   
 
 - ###### 📄 Know about my experiences https://www.linkedin.com/in/haticekubradogan/  
