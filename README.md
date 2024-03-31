@@ -6,10 +6,10 @@
 ### <div align="center">I am Kübra, Computer Engineering Student in Istanbul🚀👩‍💻</div>  
   
 
-- ###### 🔭 I'm working on Image Processing, Machine Learning and Deep Learning  
+- ###### 🔭 I'm working on Machine Learning, Deep Learning and Large Language Models (LLMs).
   
 
-- ###### 🌱 I’m currently learning Machine Learning
+- ###### 🌱 I’m currently learning Machine Learning and LLMs.
   
 
 - ###### 📄 Know about my experiences https://www.linkedin.com/in/haticekubradogan/  
