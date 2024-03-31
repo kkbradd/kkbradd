@@ -44,7 +44,7 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://worldvectorlogo.com/logo/numpy-1.svg" alt="numpy" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/50221806/86498222-c4c12800-bd39-11ea-9709-160ad4ba63e1.png" alt="numpy" width="40" height="40"/> </a>
 </div>
 
 ### Tools
@@ -52,7 +52,6 @@
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>
 <a href="" target="_blank"><img style="margin: 10px" src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="Vscode" height="50" /></a>
 <a href="" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/497012?s=200&v=4" alt="Anaconda" height="50" /></a>
-<a href="" target="_blank"><img style="margin: 10px" src="https://static.filehorse.com/icons/developer-tools/spyder-python-icon-32.png" alt="spyder" height="50" /></a>
 <a href="" target="_blank"><img style="margin: 10px" src="https://static.filehorse.com/icons/developer-tools/spyder-python-icon-32.png" alt="spyder" height="50" /></a>
 <a href="" target="_blank"><img style="margin: 10px" src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" height="50" /></a>  
 </div>
