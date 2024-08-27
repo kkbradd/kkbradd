@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">It is Kübra, I am a Computer Engineering Student in Istanbul.🚀👩‍💻</div>  
+### <div align="center">Hello, it is Kübra🚀👩‍💻</div>  
   
 
 - ###### 🔭 I'm working on Machine Learning and Large Language Models (LLMs).
