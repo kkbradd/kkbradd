@@ -6,10 +6,10 @@
 ### <div align="center">Hello, it is Kübra🚀👩‍💻</div>  
   
 
-- ###### 🔭 I'm working on Machine Learning and Large Language Models (LLMs).
+- ###### 🔭 
   
 
-- ###### 🌱 I’m currently learning LLMs.
+- ###### 🌱 
   
 
 - ###### 📄 Know about my experiences https://www.linkedin.com/in/haticekubradogan/  
