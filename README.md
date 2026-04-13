@@ -15,7 +15,7 @@
 - ###### 📄 Know about my experiences https://www.linkedin.com/in/haticekubradogan/  
   
 
-- ###### 📫 How to reach me: dogan.kubra@std.izu.edu.tr 
+- ###### 📫 How to reach me: kubradguler@gmail.com
   
 
 <br/>  
